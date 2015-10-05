@@ -10,7 +10,7 @@ namespace ConsoleApplication28
     {
         static void Main(string[] args)
         {
-            Console.WriteLine ("проект создан");
+            Console.WriteLine ("проект не разработан");
         }
     }
 }
