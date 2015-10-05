@@ -9,7 +9,8 @@ namespace ConsoleApplication28
     class Program
     {
         static void Main(string[] args)
-        { 
+        {
+            Console.WriteLine ("проект создан");
         }
     }
 }
